@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Deeksha/Desktop/vectorarray/main.cpp
+iostream
+-
+vector
+-
+set
+-
+algorithm
+-
+map
+-
+
